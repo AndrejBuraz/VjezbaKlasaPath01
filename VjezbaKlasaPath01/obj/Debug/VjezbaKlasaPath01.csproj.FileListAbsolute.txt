@@ -1,0 +1,8 @@
+C:\Users\ucenik\Documents\VjezbaKlasaPath01\bin\Debug\VjezbaKlasaPath01.exe.config
+C:\Users\ucenik\Documents\VjezbaKlasaPath01\bin\Debug\VjezbaKlasaPath01.exe
+C:\Users\ucenik\Documents\VjezbaKlasaPath01\bin\Debug\VjezbaKlasaPath01.pdb
+C:\Users\ucenik\Documents\VjezbaKlasaPath01\obj\Debug\VjezbaKlasaPath01.csproj.AssemblyReference.cache
+C:\Users\ucenik\Documents\VjezbaKlasaPath01\obj\Debug\VjezbaKlasaPath01.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\Documents\VjezbaKlasaPath01\obj\Debug\VjezbaKlasaPath01.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\Documents\VjezbaKlasaPath01\obj\Debug\VjezbaKlasaPath01.exe
+C:\Users\ucenik\Documents\VjezbaKlasaPath01\obj\Debug\VjezbaKlasaPath01.pdb
